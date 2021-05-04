@@ -216,3 +216,4 @@ gradle
 
 ### JS ###
 node_modules
+dist
