@@ -213,3 +213,6 @@ gradle-app.setting
 gradlew.bat
 gradlew
 gradle
+
+### JS ###
+node_modules
